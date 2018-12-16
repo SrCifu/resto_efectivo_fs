@@ -1,0 +1,7 @@
+El plugin "resto_efectivo" agrega un botón en la pantalla de pago del TPV Genérico para rellenar automáticamente el campo <i>efectivo</i> con el valor del campo <i>total</i>.
+<br/>
+<b>Requiere plugin de "facturacion_base".</b>
+<br/>
+Plugin desarrollado por SrCifu (<a href="https://github.com/SrCifu" target="__blank">https://github.com/SrCifu</a>)
+<br/>
+Licencia LGPL 3
